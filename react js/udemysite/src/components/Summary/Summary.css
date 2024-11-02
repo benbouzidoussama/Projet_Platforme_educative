@@ -1,0 +1,87 @@
+.CardFeatures{
+     margin-top: 25%;
+     padding: 10px 10px 10px 10px;
+     border-radius: 3px;
+} 
+
+.CardTitle{
+
+     color: #000000;
+     font-family: 'Montserrat',sans-serif;
+     font-weight: 700;
+     font-size: 15px;
+
+
+}
+
+.CardSubTitle{
+     
+     color: #000000;
+     font-family: 'Raleway',sans-serif;
+     font-weight: 600;
+     font-size: 14px;
+
+
+}
+
+.Numbers{
+
+     color: #ffd900;
+     font-family: 'Montserrat',sans-serif;
+     font-weight: 700;
+     font-size: 40px;
+
+}
+
+.Title{
+     color: #ffd900;
+     font-family: 'Raleway',sans-serif;
+     font-weight: 600;
+     font-size: 22px;
+
+}
+.RowSection{
+     
+margin-top: 20%;
+
+}
+
+.DesignContainer{
+
+     background-image: url("../../asset/image/summary.jpg");
+     min-height: 400px;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+
+
+
+}
+
+
+.DesignContainerOverly{
+
+     position: absolute;
+     min-height: 400px;
+     width: 100%;
+     background: rgba(29,159,149, 0.7);
+
+
+
+
+}
+
+.IconDesign{
+
+     color: #ffffff;
+     font-size: 40px;
+
+
+}
+
+.SmallIcon{
+     color: #201d1d;
+     font-size: 16;
+
+}

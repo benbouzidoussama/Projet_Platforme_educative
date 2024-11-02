@@ -1,0 +1,25 @@
+.box_feature{
+    border:1px solid #cbd6e2
+}
+.box_feature ul{
+    padding:1px solid #87baf1 ;
+}
+.box_feature li{
+    color: #051b35;
+    font-size: 16px;
+    margin-bottom: 9px;
+    list-style: none;
+}
+.box_feature li span{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    color:#051b35;
+    margin-right: 5px;
+}
+.box_feature .price{
+    background-color: #cbd6e5;
+    padding: 34px 23px 40px;
+}
+.buttonCourse{
+    background-color: #1D9F94;
+}

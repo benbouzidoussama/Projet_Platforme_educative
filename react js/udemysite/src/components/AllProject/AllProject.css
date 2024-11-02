@@ -1,0 +1,49 @@
+.projectCard{
+    background: #ffffff;
+    width: 22em;
+    border-radius: 0.6em;
+    margin: 1em;
+    cursor: pointer;
+    box-shadow: 0 13px 25px -5px;
+    transition: all ease 200ms;
+}
+
+.projectCard:hover{
+    transform: scale(1.07); 
+    box-shadow: 0 13px 30px -5px;
+
+}
+
+.primary{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #007bff; /* Couleur du bouton */
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+.projectImg{
+    width:22rem ;
+    height:20rem ;
+}
+
+.projectName{
+    color: #051b35;
+    margin-top: 1rem;
+    font-family: 'Raleway',sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+.projectDescription{
+    color: #505050;
+    margin-top: 1rem;
+    font-family: 'Raleway',sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+.link{
+    background-color: #16817c;
+}

@@ -1,0 +1,17 @@
+.courseImg{
+    width: 17rem;
+    height: 10rem;
+    margin-bottom: 5%;
+
+}
+.courseViewMore{
+    color: #1D9F94;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    text-decoration: none;
+}
+.courseViewMore:hover{
+    color: #051b35;
+    text-decoration: none;
+}

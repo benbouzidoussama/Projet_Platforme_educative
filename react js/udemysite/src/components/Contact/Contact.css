@@ -1,0 +1,17 @@
+.serviceName{
+    color:#051b35;
+    margin-top: 1rem;
+    font-family: 'Raleway',sans-serif;
+    font-size: 24;
+    font-weight: 700;
+}
+.serviceDescription{
+    color: #505050;;
+    margin-top: 1rem;
+    font-family: 'Raleway',sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+.buttonContact{
+    background-color: #16817c;
+}

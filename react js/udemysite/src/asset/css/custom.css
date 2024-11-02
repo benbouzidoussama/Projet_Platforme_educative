@@ -1,0 +1,29 @@
+.topFixedBanner{
+    background-image:url("../image/banner.jpg") ;
+    min-height: 550px;
+    background-attachment:fixed ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.topTitle{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 48px;
+}
+.topSubTitle{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 22px;
+}
+.topBannerOverly{
+    position: absolute;
+    min-height: 550px;
+    width:100% ;
+    background-color: rgba(29,159,148, 0.6);
+}
+.topContent{
+    padding-top: 10em;
+}
